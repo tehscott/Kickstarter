@@ -14,3 +14,4 @@ Given more time, I would do the following to improve the app:
 - Pull to refresh.
 - Build the layouts using Compose.
 - Make sure the placeholder image matches the size of the incoming gif.
+- Add more/better error validation.
